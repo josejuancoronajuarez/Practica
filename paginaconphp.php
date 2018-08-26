@@ -6,7 +6,7 @@ $casado = true; //variable de tipo  boolean.
 $sueldo = 4025.43; //variable de tipo float
 
 // arreglo de 4 tipos de datos
-$persona_array = array('anos'=>$anios , 'nombre'=>$nombre , 'casado'=>$casado, 
+$persona_array = array('anios'=>$anios , 'nombre'=>$nombre , 'casado'=>$casado, 
 'sueldo'=>$sueldo);
 
 // objeto de 4 tipos de datos
@@ -42,4 +42,3 @@ echo "<br>";
 var_dump($persona_array);
 
 ?>
-
